@@ -1,0 +1,59 @@
+No    Nama Mata kuliah           Mata Kuliah prerequisite
+1     Kalkulus 1A                -
+2     Fisika 1A                  -
+3     Kimia 1B                   -
+4     PRD 1                      -
+5     PTI B                      -
+6     Olahraga                   -
+7     Bahasa Inggris             -
+8     Kalkulus 2A                Kalkulus 1A
+9     Fisika 2A                  Fisika 1A
+10    Kimia 2B                   Kimia 1B
+11    PRD 2                      PRD 1
+12    Daspro                     PTI B
+13    PAR                        -
+14    TTKI                       -
+15    Matdis                     -
+16    Algeo                      -
+17    Logif                      -
+18    Alstrukdat                 Daspro
+19    Orkom                      -
+20    TBFO                       Alstrukdat, Matdis
+21    Probstat                   Kalkulus 1A, Kalkulus 2A
+22    Stima                      Daspro, Matdis, Alstrukdat
+23    OOP                        Alstrukdat
+24    Basdat                     Logif, Orkom
+25    OS                         Orkom
+26    DRPL                       Alstrukdat
+27    WBD                        Alstrukdat, OOP
+28    Jarkom                     OS
+29    MPPL                       DRPL
+30    IMK                        DRPL
+31    AI                         Stima, Logif, TBFO, Probstat
+32    MBD                        Basdat
+33    PBD                        Alstrukdat, Orkom
+34    Sister                     Jarkom                   
+35    SI                         DRPL, Basdat
+36    PPL                        MPPL, Basdat, IMK
+37    Grafkom                    Algeo, OOP
+38    Socif                      -
+39    Agama dan Etika            -
+40    Kwn                        -
+41    Lingkungan                 -
+42    KP                         Lulus 90 SKS
+43    TA 1                       KP
+44    RPLSD                      DRPL, Basdat
+45    TA 2                       Lulus TA 1
+46    Kriptografi                Matdis, WBD, Grafkom, Orkom, Stima
+47    ModSim                     Probstat
+48    PAT                        Sister
+49    KPI                        WBD, PBD, DRPL
+50    PDL                        Basis Data, MBD
+51    TBD                        Basdat, MBD
+52    SIL                        SI
+53    PPLS                       DRPL, WBD
+54    Visdat                     Basdat                    
+55    RPP                        Logif, AI
+56    ML                         AI
+57    Speech & Text              TBFO, AI
+58    Pengcit                    Grafkom, PBD
