@@ -21,13 +21,15 @@ Kalian tentunya sudah tidak asing dengan akademik SI-X ITB. Namun, pengesahan ma
 
 8. Batas pengambilan mata kuliah adalah 4 semester untuk TPB dan 8 semester untuk jurusan, dengan batas minimum D untuk TPB dan C untuk jurusan. Mata kuliah yang belum lulus dapat diambil kembali di semester-semester berikutnya, tidak seperti pada Informatika ITB yang hanya bisa dipilih pada semester ganjil/semester genap saja.
 
-9. Validasi masukan dibuat selengkap mungkin, dengan syarat-syarat yang semirip mungkin dengan dunia nyata. Silahkan beri komentar di program kalian untuk setiap validasi yang kalian lakukan.  
+9. **_Terdapat fitur logout untuk keluar dari Website._**  
 
-10. *Website* dapat menampilkan pesan kesalahan dan sebagainya secara intuitif.  
+10. Validasi masukan dibuat selengkap mungkin, dengan syarat-syarat yang semirip mungkin dengan dunia nyata. Silahkan beri komentar di program kalian untuk setiap validasi yang kalian lakukan.  
 
-11. Tampilan *Website* dibebaskan, sehingga silahkan beri kreativitas terbaik kalian.
+11. *Website* dapat menampilkan pesan kesalahan dan sebagainya secara intuitif.  
 
-12.	Program memiliki *Readme* yang berisi:
+12. Tampilan *Website* dibebaskan, sehingga silahkan beri kreativitas terbaik kalian.
+
+13.	Program memiliki *Readme* yang berisi:
 - *Environment* pembuatan program(termasuk bahasa pemrograman, *framework*, dan *library* yang digunakan)
 - Asumsi dalam pembuatan program(jika ada)
 - Deskripsi **semua** algoritma yang digunakan untuk setiap fitur. Tuliskan algoritma-algoritma pentingnya saja
@@ -36,7 +38,7 @@ Kalian tentunya sudah tidak asing dengan akademik SI-X ITB. Namun, pengesahan ma
 - Cara menggunakan program
 - Data diri
 
-13. Bonus:
+14. Bonus:
 - Autentifikasi dengan email std. Silahkan tambahkan autentifikasi dengan email std dan hubungkan dengan *register* biasa dengan email std tersebut(sebuah email std dapat di-*register* dengan autentifikasi Google dan *register* biasa).
 - Tambahkan permasalahan semester genap/ganjil(ada beberapa mata kuliah yang hanya bisa diambil di semester ganjil/semester genap saja) dan pengubahan definisi *prerequisite* yang sebelumnya artinya "sudah pernah diambil" menjadi "sudah lulus"
   
@@ -53,6 +55,7 @@ Kalian tentunya sudah tidak asing dengan akademik SI-X ITB. Namun, pengesahan ma
 - Pemilihan mata kuliah
 - Tampilan mata kuliah yang belum diambil
 - *Akademik Advisor*
+- **_Logout_**
 - Kelengkapan validasi
 - Kelengkapan respon atas kejadian yang tidak normal
 - Kreativitas
